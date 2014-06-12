@@ -1,3 +1,5 @@
+# Connect to SCCM SQL server
+
 #Set up Constants used by all functions
 $Global:Server = "s-sccm02-v.gyldendal.local"
 $Global:Database = "SMS_XXX"
